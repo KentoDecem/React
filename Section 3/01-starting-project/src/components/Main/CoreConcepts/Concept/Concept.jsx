@@ -1,4 +1,4 @@
-import styles from "./CoreConcept.module.css";
+import styles from "./Concept.module.css";
 
 function CoreConcept({ image, title, description }) {
   return (
