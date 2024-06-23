@@ -1,8 +1,10 @@
 # Deploy a React App in Minutes: Codespaces & GH Pages
 
 ## Commands to type in codespace:
-- `npm install`
-- `npm install --save gh-pages`
+```shell
+$ npm install
+$ npm install --save gh-pages
+```
 
 
 ## in `package.json` add:
