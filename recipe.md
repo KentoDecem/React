@@ -21,8 +21,6 @@ $ npm install --save gh-pages
   },
 ```
 
-
-
 ## in `vite.config.js` add:
 ```diff
 export default defineConfig({
@@ -34,6 +32,13 @@ export default defineConfig({
   },
 })
 ```
+
+## Publish to a new repository
+- close codepsace and open repo
+- rename `weird random name` branch to `main`
+- remove codespace
+- create codespace again on branch `main`
+
 
 ## Deploy your app
 ```shell
