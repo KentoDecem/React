@@ -24,10 +24,9 @@ $ npm install --save gh-pages
 
 
 ## in `vite.config.js` add:
-```js
-export default defineConfig({ 
-  base: '/pol-med.tech/',
-  ...
+```diff
+export default defineConfig({
++ base: '/pol-med.tech/',
 })
 ```
 
