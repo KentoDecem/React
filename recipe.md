@@ -36,4 +36,6 @@ export default defineConfig({
 ```
 
 ## Deploy your app
-`npm run deploy`
+```shell
+$ npm run deploy
+```
