@@ -1,4 +1,4 @@
-# Deploy a React App in Minutes: Codespaces & GH Pages
+# Deploy a React App in Minutes: Codespace & GH Pages
 
 ## Commands to type in codespace:
 ```shell
