@@ -27,6 +27,11 @@ $ npm install --save gh-pages
 ```diff
 export default defineConfig({
 + base: '/pol-med.tech/',
+  plugins: [react()],
+  test: {
+    globals: true,
+    environment: 'jsdom',
+  },
 })
 ```
 
