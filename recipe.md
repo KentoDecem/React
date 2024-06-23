@@ -26,7 +26,7 @@ $ npm install --save gh-pages
 ## in `vite.config.js` add:
 ```diff
 export default defineConfig({
-+ base: '/pol-med.tech/',
++ base: '/repo-name/',
   plugins: [react()],
   test: {
     globals: true,
