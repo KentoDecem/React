@@ -11,7 +11,7 @@ $ npm install --save gh-pages
 ```json
 "homepage": "https://muslewski.github.io/repo-name",
 ```
- ```diff
+```diff
 {
   "name": "my-app",
   "version": "0.1.0",
