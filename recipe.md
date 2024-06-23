@@ -1,8 +1,9 @@
 ## in `package.json` add:
+```json
 "homepage": "https://muslewski.github.io/repo-name",
+```
 ```json
 "scripts": {
-  ...
   "predeploy": "npm run build",
   "deploy": "gh-pages -d dist"
 },
