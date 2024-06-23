@@ -12,11 +12,11 @@ $ npm install --save gh-pages
 "homepage": "https://muslewski.github.io/repo-name",
 ```
  ```diff
-    {
-      "name": "my-app",
-      "version": "0.1.0",
-    + "homepage": "https://gitname.github.io/react-gh-pages",
-      "private": true,
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  + "homepage": "https://gitname.github.io/react-gh-pages",
+  "private": true,
 ```
 
 ```json
