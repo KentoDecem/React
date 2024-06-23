@@ -47,7 +47,7 @@ export default defineConfig({
 $ npm run deploy
 ```
 
-
+---
 Think about adding template repo, so that yo will not need to create codespace and then deleting it.
 
 Add Github Automatic Deploy, when commit made. Github Deploy / Actions
