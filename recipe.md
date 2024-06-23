@@ -1,5 +1,7 @@
 # Deploy a React App in Minutes: Codespace & GH Pages
 
+### Open Quick start template - React
+
 ## Commands to type in codespace:
 ```shell
 $ npm install
