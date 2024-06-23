@@ -9,7 +9,7 @@
 
 
 ## in 'vite.config.js' add:
-export default defineConfig({
+export default defineConfig({ 
   base: '/pol-med.tech/',
   ...
 })
