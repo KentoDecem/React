@@ -17,7 +17,7 @@ $ npm install --save gh-pages
       "version": "0.1.0",
     + "homepage": "https://gitname.github.io/react-gh-pages",
       "private": true,
-    ```
+```
 
 ```json
 "scripts": {
